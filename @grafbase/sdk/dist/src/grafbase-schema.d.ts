@@ -258,7 +258,7 @@ export declare class Graph {
    *
    * @param type - A type to be referred.
    */
-  ref(type: Type | string): ReferenceDefinition;
+  ref(type: Type | string | Function): ReferenceDefinition;
   /**
    * Create a new enum field.
    *
