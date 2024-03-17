@@ -1,4 +1,4 @@
-import { graph, config, scalar } from "@grafbase/sdk";
+import { graph, config, scalar } from "./@grafbase/sdk";
 
 const g = graph.Standalone();
 

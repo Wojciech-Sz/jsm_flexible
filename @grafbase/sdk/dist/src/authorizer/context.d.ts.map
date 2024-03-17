@@ -1,0 +1,1 @@
+{"version":3,"file":"context.d.ts","sourceRoot":"","sources":["../../../src/authorizer/context.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;GAYG;AACH,MAAM,MAAM,iBAAiB,GAAG;IAC9B,iCAAiC;IACjC,OAAO,EAAE;QACP,OAAO,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC,CAAA;KAChC,CAAA;CACF,CAAA"}

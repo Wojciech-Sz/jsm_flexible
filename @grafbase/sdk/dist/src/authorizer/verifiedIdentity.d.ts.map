@@ -1,0 +1,1 @@
+{"version":3,"file":"verifiedIdentity.d.ts","sourceRoot":"","sources":["../../../src/authorizer/verifiedIdentity.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;GAYG;AACH,MAAM,MAAM,gBAAgB,GAAG;IAC7B,QAAQ,EAAE;QACR,sCAAsC;QACtC,GAAG,CAAC,EAAE,MAAM,CAAA;QACZ,kDAAkD;QAClD,MAAM,CAAC,EAAE,MAAM,EAAE,CAAA;QACjB,kCAAkC;QAClC,CAAC,UAAU,EAAE,MAAM,GAAG,GAAG,CAAA;KAC1B,CAAA;CACF,CAAA"}

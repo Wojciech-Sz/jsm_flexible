@@ -1,0 +1,1 @@
+{"version":3,"file":"experimental.d.ts","sourceRoot":"","sources":["../../src/experimental.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,WAAW,kBAAkB;IACjC,EAAE,CAAC,EAAE,OAAO,CAAA;IACZ,EAAE,CAAC,EAAE,OAAO,CAAA;IACZ,OAAO,CAAC,EAAE,OAAO,CAAA;CAClB;AAED,qBAAa,YAAY;IACvB,OAAO,CAAC,MAAM,CAAoB;gBAEtB,MAAM,EAAE,kBAAkB;IAI/B,QAAQ,IAAI,MAAM;CAM1B"}
