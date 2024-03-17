@@ -21,7 +21,7 @@ const User = g.type("User", {
   description: scalar.string().optional(),
   githubUrl: scalar.url().optional(),
   linkedInUrl: scalar.url().optional(),
-  projects: g.ref(() => Project).list(),
+  projects: g.ref("Project").list(),
 });
 
 const Project = g.type("project", {
